@@ -1,2 +1,3 @@
 Hello world from Maaiz Shaikh
-Learning Git and GitHub via practical demo.
+Hello World from Ravi Patel
+Learning Git and GitHub via Grp Discussion.
